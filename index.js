@@ -48,7 +48,7 @@ const logger = {
 };
 
 const CHAIN_ID = 16601;
-const RPC_URL = 'https://0g.bangcode.id';
+const RPC_URL = 'https://evmrpc-testnet.0g.ai';
 const CONTRACT_ADDRESS = '0x5f1D96895e442FC0168FA2F9fb1EBeF93Cb5035e';
 const METHOD_ID = '0xef3e12dc';
 const PROXY_FILE = 'proxies.txt';
