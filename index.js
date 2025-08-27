@@ -49,7 +49,7 @@ const logger = {
 
 const CHAIN_ID = 16601;
 const RPC_URL = 'https://evmrpc-testnet.0g.ai';
-const CONTRACT_ADDRESS = '0x5f1D96895e442FC0168FA2F9fb1EBeF93Cb5035e';
+const CONTRACT_ADDRESS = '0xbD75117F80b4E22698D0Cd7612d92BDb8eaff628';
 const METHOD_ID = '0xef3e12dc';
 const PROXY_FILE = 'proxies.txt';
 const INDEXER_URL = 'https://indexer-storage-testnet-turbo.0g.ai';
